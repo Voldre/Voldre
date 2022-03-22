@@ -1,6 +1,6 @@
 ## Valentin Dubuc - Développeur Industrie 4.0
 
-Je suis étudiant en formation d'ingénieurs à l'<a href="https://www.insa-rouen.fr/">INSA Rouen Normandie</a> dans la formation Performance Numérique Industrielle, une formation orienté Industrie et Informatique.
+Je suis étudiant en formation d'ingénieurs à l'<a href="https://www.insa-rouen.fr/">INSA Rouen Normandie</a> dans la formation Performance Numérique Industrielle, une formation orientée Industrie et Informatique.
 
 Parmi mes activités :
 
@@ -8,7 +8,7 @@ Parmi mes activités :
 - Certains de ces projets et d'autres encore sont disponibles directement sur mon GitHub
 - J'apprends continuellement le JS, PHP, SQL, ainsi que le Python
 
-- Je travaille à Sanofi Pasteur en tant que dévelopeur digital pour l'industrie 4.0 (transformation de processus physique vers le format numérique)
+- Je travaille à Sanofi Pasteur en tant que développeur digital pour l'industrie 4.0 (transformation de processus physique vers le format numérique)
 - Je réalise en 2022 un stage de 3 mois en Pologne en tant que développeur Front End 
 
 
