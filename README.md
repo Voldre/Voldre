@@ -12,8 +12,8 @@ Parmi mes activités :
 - Je réalise en 2022 un stage de 3 mois en Pologne en tant que développeur Front End 
 
 
-[![img_contact](./img/globe-light.svg)](http://voldre.free.fr/)
+[![img_contact](./globe-light.svg)](http://voldre.free.fr/)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/valentin-dubuc-785285182/)
+[![img_contact](./linkedin-light.svg)](https://www.linkedin.com/in/valentin-dubuc-785285182/)
 &nbsp;&nbsp;
 Mes contacts : vdubuc@itii-normandie.fr
