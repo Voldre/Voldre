@@ -4,9 +4,9 @@ Je suis étudiant en formation d'ingénieurs à l'<a href="https://www.insa-roue
 
 Parmi mes activités :
 
-- Je travaille sur plusieurs projets personnels, disponible sur mon <a href="voldre.free.fr">site</a>
+- Je travaille sur plusieurs projets personnels, disponible sur mon <a href="http://voldre.free.fr">site</a>
 - Certains de ces projets et d'autres encore sont disponibles directement sur mon GitHub
-- J'apprends continuellement le JS, PHP, SQL, ainsi que le Python
+- J'apprends continuellement le JS (React), PHP, SQL, ainsi que le Python
 
 - Je travaille à Sanofi Pasteur en tant que développeur digital pour l'industrie 4.0 (transformation de processus physique vers le format numérique)
 - Je réalise en 2022 un stage de 3 mois en Pologne en tant que développeur Front End 
